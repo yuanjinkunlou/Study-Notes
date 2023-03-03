@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /css/spotlight
+      link: /css/spotlight/
     - theme: alt
       text: View on GitHub
       link: https://github.com/yuanjinkunlou
