@@ -15,7 +15,8 @@ export default defineConfig({
                 { text: '删除按钮', link: '/css/delete-btn/' },
                 { text: '轮播图', link: '/css/carousel/' },
                 { text: '打勾', link: '/css/tick/' },
-                { text: '逐帧动画', link: '/css/frame/' }
+                { text: '逐帧动画', link: '/css/frame/' },
+                { text: '水滴动画', link: '/css/drop/' }
             ]
         }
     }

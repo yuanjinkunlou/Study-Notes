@@ -75,6 +75,7 @@ onUnmounted(() => {
     border-radius: 5px;
     background-image: url('./bg.png');
     background-size: 100% 100%;
+    overflow: hidden;
 }
 
 .role {
