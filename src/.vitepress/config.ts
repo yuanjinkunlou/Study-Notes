@@ -16,7 +16,8 @@ export default defineConfig({
                 { text: '轮播图', link: '/css/carousel/' },
                 { text: '打勾', link: '/css/tick/' },
                 { text: '逐帧动画', link: '/css/frame/' },
-                { text: '水滴动画', link: '/css/drop/' }
+                { text: '水滴动画', link: '/css/drop/' },
+                { text: '切图动画', link: '/css/stacks/' }
             ]
         }
     }
