@@ -17,7 +17,8 @@ export default defineConfig({
                 { text: '打勾', link: '/css/tick/' },
                 { text: '逐帧动画', link: '/css/frame/' },
                 { text: '水滴动画', link: '/css/drop/' },
-                { text: '切图动画', link: '/css/stacks/' }
+                { text: '切图动画', link: '/css/stacks/' },
+                { text: '爱心', link: '/css/heart/' }
             ]
         }
     }
